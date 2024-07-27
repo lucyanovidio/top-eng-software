@@ -2,6 +2,7 @@
 
 Atividade de teste de uma API pública usando <a href="">**Supertest**</a>. A API testada foi a <a href="https://api.adviceslip.com/#endpoint-random">Advice Slip JSON API</a>.
 
+
 ## Casos de teste
 
 Os seguintes **casos de teste** foram observados, considerando as entradas pelos *endpoints* e os retornos por suas saídas:
@@ -65,18 +66,19 @@ Os seguintes **casos de teste** foram observados, considerando as entradas pelos
 - **Saída esperada:** Erro 404 - Not found.
 - **Descrição:** Teste do retorno a partir de uma pesquisa sem ter fornecido nenhuma palavra como parâmetro.
 
+
 ## Como rodar
 
 Você precisará ter o <a href="https://nodejs.org/pt">**Node**</a> instalado.
 
 - Clone o repositório
 
-``git clone https://github.com/lucyanovidio/top-eng-software.git``
+```git clone https://github.com/lucyanovidio/top-eng-software.git```
 
 - Instale as dependências 
 
-``npm install``
+```npm install```
 
 - Execute os testes
 
-``npm test``
+```npm test```
