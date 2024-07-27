@@ -1,6 +1,6 @@
 # Teste de API Pública
 
-Atividade de teste de uma API pública usando <a href="">**Supertest**</a>. A API testada foi a <a href="https://api.adviceslip.com/#endpoint-random">Advice Slip JSON API</a>.
+Atividade de teste caixa preta de uma API pública usando <a href="https://www.npmjs.com/package/supertest">**Supertest**</a>. A API testada foi a <a href="https://api.adviceslip.com/#endpoint-random">Advice Slip JSON API</a>.
 
 
 ## Casos de teste
