@@ -73,12 +73,18 @@ Você precisará ter o <a href="https://nodejs.org/pt">**Node**</a> instalado.
 
 - Clone o repositório
 
-```git clone https://github.com/lucyanovidio/top-eng-software.git```
+```
+git clone https://github.com/lucyanovidio/top-eng-software.git
+```
 
 - Instale as dependências 
 
-```npm install```
+```
+npm install
+```
 
 - Execute os testes
 
-```npm test```
+```
+npm test
+```
