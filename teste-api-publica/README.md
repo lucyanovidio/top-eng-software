@@ -71,19 +71,19 @@ Os seguintes **casos de teste** foram observados, considerando as entradas pelos
 
 Você precisará ter o <a href="https://nodejs.org/pt">**Node**</a> instalado.
 
-- Clone o repositório
+Clone o repositório
 
 ```
 git clone https://github.com/lucyanovidio/top-eng-software.git
 ```
 
-- Instale as dependências 
+Instale as dependências 
 
 ```
 npm install
 ```
 
-- Execute os testes
+Execute os testes
 
 ```
 npm test
